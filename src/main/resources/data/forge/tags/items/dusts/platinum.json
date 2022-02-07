@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "addon:platinum_dust"
+  ],
+  "optional": [
+    "forge:dusts/platinum"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "addon:platinum_nugget"
+  ],
+  "optional": [
+    "forge:dusts/platinum"
+  ]
+}

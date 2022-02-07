@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "addon:iridium_dust"
+  ],
+  "optional": [
+    "forge:dusts/iridium"
+  ]
+}

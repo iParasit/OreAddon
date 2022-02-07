@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "addon:enderium_nugget"
+  ],
+  "optional": [
+    "forge:dusts/enderium"
+  ]
+}

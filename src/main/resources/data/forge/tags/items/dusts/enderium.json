@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "addon:enderium_dust"
+  ],
+  "optional": [
+    "forge:dusts/enderium"
+  ]
+}

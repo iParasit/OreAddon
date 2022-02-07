@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "addon:iridium_nugget"
+  ],
+  "optional": [
+    "forge:dusts/iridium"
+  ]
+}

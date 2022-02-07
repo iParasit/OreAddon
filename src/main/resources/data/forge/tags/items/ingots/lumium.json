@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "addon:lumium_ingot"
+  ],
+  "optional": [
+    "forge:dusts/lumium"
+  ]
+}
