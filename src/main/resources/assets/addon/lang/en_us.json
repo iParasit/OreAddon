@@ -1,0 +1,22 @@
+{
+  "item.addon.invar_dust": "Invar Dust",
+  "item.addon.invar_nugget": "Invar Nugget",
+  "item.addon.invar_ingot": "Invar Ingot",
+
+
+  "item.addon.platinum_dust": "Platinum Dust",
+  "item.addon.platinum_nugget": "Platinum Nugget",
+  "item.addon.platinum_ingot": "Platinum Ingot",
+
+  "item.addon.iridium_dust": "Iridium Dust",
+  "item.addon.iridium_nugget": "Iridium Nugget",
+  "item.addon.iridium_ingot": "Iridium Ingot",
+
+  "item.addon.lumium_dust": "Lumium Dust",
+  "item.addon.lumium_nugget": "Lumium Nugget",
+  "item.addon.lumium_ingot": "Lumium Ingot",
+
+  "item.addon.signalium_dust": "Signalium Dust",
+  "item.addon.signalium_nugget": "Signalium Nugget",
+  "item.addon.signalium_ingot": "Signalium Ingot"
+}
