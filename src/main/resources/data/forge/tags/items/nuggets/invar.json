@@ -1,9 +1,9 @@
 {
   "replace": false,
   "values": [
-    "forge:dusts/invar"
+    "forge:nuggets/invar"
   ],
   "optional": [
-    "addon:invar_dust"
+    "addon:invar_nugget"
   ]
 }
