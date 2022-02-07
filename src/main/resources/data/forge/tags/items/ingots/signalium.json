@@ -1,9 +1,9 @@
 {
   "replace": false,
   "values": [
-    "addon:invar_dust"
+    "addon:signalium_ingot"
   ],
   "optional": [
-    "forge:dusts/invar"
+    "forge:ingots/signalium"
   ]
 }

@@ -1,9 +1,9 @@
 {
   "replace": false,
   "values": [
-    "forge:ingots/invar"
+    "addon:invar_ingot"
   ],
   "optional": [
-    "addon:invar_ingot"
+    "forge:ingots/invar"
   ]
 }
