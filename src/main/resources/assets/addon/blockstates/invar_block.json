@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "addon:block/invar_block" }
+  }
+}

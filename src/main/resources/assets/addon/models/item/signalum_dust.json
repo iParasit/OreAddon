@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "addon:item/signalium_ingot"
+    "layer0": "addon:item/signalum_dust"
   }
 }

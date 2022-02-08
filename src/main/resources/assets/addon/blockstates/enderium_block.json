@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "addon:block/enderium_block" }
+  }
+}

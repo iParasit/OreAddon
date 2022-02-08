@@ -40,11 +40,11 @@ public class ModItems {
     public static final RegistryObject<Item> LUMIUM_INGOT = ITEMS.register("lumium_ingot",
             () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
     //SIGNALIUM ITEMS
-    public static final RegistryObject<Item> SIGNALIUM_NUGGET = ITEMS.register("signalium_nugget",
+    public static final RegistryObject<Item> SIGNALUM_NUGGET = ITEMS.register("signalum_nugget",
             () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
-    public static final RegistryObject<Item> SIGNALIUM_DUST = ITEMS.register("signalium_dust",
+    public static final RegistryObject<Item> SIGNALUM_DUST = ITEMS.register("signalum_dust",
             () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
-    public static final RegistryObject<Item> SIGNALIUM_INGOT = ITEMS.register("signalium_ingot",
+    public static final RegistryObject<Item> SIGNALUM_INGOT = ITEMS.register("signalum_ingot",
             () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC)));
     //ENDERIUM ITEMS
     public static final RegistryObject<Item> ENDERIUM_NUGGET = ITEMS.register("enderium_nugget",

@@ -4,6 +4,6 @@
     "addon:signalium_ingot"
   ],
   "optional": [
-    "forge:ingots/signalium"
+    "forge:ingots/signalum"
   ]
 }

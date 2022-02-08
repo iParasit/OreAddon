@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "addon:invar_block"
+  ],
+  "optional": [
+    "forge:blocks/invar"
+  ]
+}

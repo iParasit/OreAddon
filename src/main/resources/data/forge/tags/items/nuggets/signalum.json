@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "addon:signalium_nugget"
+  ],
+  "optional": [
+    "forge:nuggets/signalum"
+  ]
+}

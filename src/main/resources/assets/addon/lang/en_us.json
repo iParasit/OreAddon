@@ -2,25 +2,31 @@
   "item.addon.invar_dust": "Invar Dust",
   "item.addon.invar_nugget": "Invar Nugget",
   "item.addon.invar_ingot": "Invar Ingot",
+  "block.addon.invar_block": "Invar Block",
 
 
   "item.addon.platinum_dust": "Platinum Dust",
   "item.addon.platinum_nugget": "Platinum Nugget",
   "item.addon.platinum_ingot": "Platinum Ingot",
+  "block.addon.platinum_block": "Platinum Block",
 
   "item.addon.iridium_dust": "Iridium Dust",
   "item.addon.iridium_nugget": "Iridium Nugget",
   "item.addon.iridium_ingot": "Iridium Ingot",
+  "block.addon.iridium_block": "Iridium Block",
 
   "item.addon.lumium_dust": "Lumium Dust",
   "item.addon.lumium_nugget": "Lumium Nugget",
   "item.addon.lumium_ingot": "Lumium Ingot",
+  "block.addon.lumium_block": "Lumium Block",
 
   "item.addon.enderium_dust": "Enderium Dust",
   "item.addon.enderium_nugget": "Enderium Nugget",
   "item.addon.enderium_ingot": "Enderium Ingot",
+  "block.addon.enderium_block": "Enderium Block",
 
-  "item.addon.signalium_dust": "Signalium Dust",
-  "item.addon.signalium_nugget": "Signalium Nugget",
-  "item.addon.signalium_ingot": "Signalium Ingot"
+  "item.addon.signalum_dust": "Signalum Dust",
+  "item.addon.signalum_nugget": "Signalum Nugget",
+  "item.addon.signalum_ingot": "Signalum Ingot",
+  "block.addon.signalum_block": "Signalum Block"
 }

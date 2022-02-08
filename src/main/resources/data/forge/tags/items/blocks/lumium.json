@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "addon:lumium_block"
+  ],
+  "optional": [
+    "forge:blocks/lumium"
+  ]
+}

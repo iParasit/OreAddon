@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/silver"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    }
+  ],
+  "result":
+  {
+    "tag": "forge:dusts/lumium",
+    "count": 2
+  }
+}

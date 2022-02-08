@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "addon:block/platinum_block" }
+  }
+}

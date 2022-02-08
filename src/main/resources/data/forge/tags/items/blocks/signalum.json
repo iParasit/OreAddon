@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "addon:signalum_block"
+  ],
+  "optional": [
+    "forge:blocks/signalum"
+  ]
+}
